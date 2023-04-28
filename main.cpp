@@ -53,7 +53,7 @@ int main() {
                                 90,
                                 100);
 
-    Funcionario Homero_Castro ("Homero Brina Castro",
+    Funcionario Homero_Castro ("Homero Teixeira Castro",
                                 "123456",
                                 "12345678910",
                                 "homero@gmail.com",
@@ -64,7 +64,7 @@ int main() {
                                 end_homero_castro,
                                 2500);
 
-    Funcionario Gustavo_Santana ("Gustavo Santana",
+    Funcionario Gustavo_Santana ("Gustavo Santana Castro",
                                   "654321",
                                   "01987654321",
                                   "gustavo@gmail.com",
@@ -75,7 +75,7 @@ int main() {
                                   end_gustavo_santana,
                                   3400);
 
-    Funcionario Fernanda_Albuquerque ("Fernanda Souza de Albuquerque",
+    Funcionario Fernanda_Albuquerque ("Fernanda Anchieta de Albuquerque",
                                       "162534",
                                       "13298745619",
                                       "fernanda@gmail.com",
